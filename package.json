@@ -10,7 +10,7 @@
   { "type" : "git"
   , "url" : "https://github.com/zerooverflow/typescript-node-starter.git"
   },
-  "author": "",
+  "author": "0of",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
